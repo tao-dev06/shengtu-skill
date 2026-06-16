@@ -1,0 +1,4 @@
+interface:
+  display_name: "JOJO Code 生图"
+  short_description: "通过 JOJO Code 接口生成本地图片文件"
+  default_prompt: "Use $jojocode-imagegen to generate an image from a prompt and save it locally."
